@@ -29,6 +29,7 @@ body,
 /* Let the header flow instead of having fixed height, so that really long project names can wrap without overlapping content. */
 #header {
   height: auto;
+  padding-bottom: 0;
 }
 
 /* Float the page title left so that it will fall below the search box if it gets too wide. */
