@@ -211,6 +211,23 @@ table.list td.checkbox {
   padding: 7px 10px 7px 3px;
 }
 
+/* Accentuate more written human messsages and deaccentuate systemmsg  */
+.details {
+  color: gray;
+  font-size: 0.9em;
+}
+.wiki {
+  color: black;
+  font-size: 1.1em;
+}
+div.issue div.subject h3 {
+  font-size: 2em;
+}
+
+#content > h2 {
+  font-size: 1em;
+  margin-bottom: 3px;
+}
 /* A subtle difference in size between links and non-links in issue tables. */
 table.list tr.issue {
   font-size: 90%;
