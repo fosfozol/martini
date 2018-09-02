@@ -225,7 +225,7 @@ div.issue div.subject h3 {
 }
 
 #content > h2 {
-  font-size: 1em;
+  font-size: 2em;
   margin-bottom: 3px;
 }
 /* A subtle difference in size between links and non-links in issue tables. */
