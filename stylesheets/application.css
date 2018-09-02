@@ -354,3 +354,19 @@ img.gravatar {
 *:first-child + html #header {
   min-height: 1%;
 }
+
+
+#main-menu li a.new-object {
+
+  background-color: white;
+  border-top: 1px #ddd solid;
+  border-right: 1px #ccc solid;
+  border-left: 1px #ddd solid;
+  -moz-border-radius-topleft: .3em;
+  -webkit-border-top-left-radius: .3em;
+  border-top-left-radius: .3em;
+  -moz-border-radius-topright: .3em;
+  -webkit-border-top-right-radius: .3em;
+  border-top-right-radius: .3em;
+
+}
